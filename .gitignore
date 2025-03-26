@@ -1,0 +1,24 @@
+# Бинарные файлы
+/bin/
+/trackzen
+
+# Файлы зависимостей
+/vendor/
+
+# Файлы окружения
+.env
+.env.prod
+
+# IDE
+.idea/
+.vscode/
+
+# Логи
+*.log
+
+# Безопасность
+*.pem
+*.key
+
+# Docker
+docker-compose.override.yml
